@@ -15,7 +15,6 @@ avi.last_name = "Flombaum"
 jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Neutron"
-jim.learn("hi im jim")
 
 
 some_knowledge = avi.teach
